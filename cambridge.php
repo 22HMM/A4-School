@@ -23,7 +23,7 @@
                 <h2 class="heading text-uppercase my-4 fw-bold content-heading" style="color: var(--primary-color); font-family: var(--main-font); font-size: 28px;">Cambridge
                     Igcse Classes</h2>
                 <div>
-                    <img src="./images/A4 Img  (8) 2.png" alt="" class="w-100">
+                    <img src="./images/Mask group (16).png" alt="" class="w-100">
                 </div>
                 <div>
                     <p class="my-4 w-100 tracking-wide content-para edu-text" style="font-size: large;color: var(--primary-color); font-family: var(--secondary-font);">

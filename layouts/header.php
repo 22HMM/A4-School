@@ -76,13 +76,13 @@
                             <a href="contact-us.php" class="nav-link">Contact Us</a>
                         </li>
                         <li class="nav-item d-lg-none d-inline-block">
-                            <a href="admisssions.php" class="nav-link admission-btn1">Admission</a>
+                            <a href="admission.php" class="nav-link admission-btn1">Admission</a>
                         </li>
                     </ul>
 
                 </div>
                 <div class="d-flex ">
-                    <a href="admisssions.html" class="admission-btn">Admission</a>
+                    <a href="admission.php" class="admission-btn">Admission</a>
 
                 </div>
             </div>

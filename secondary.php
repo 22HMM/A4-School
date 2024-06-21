@@ -23,7 +23,7 @@
                 <h2 class=" text-uppercase my-4 fw-bold content-heading heading" style="color: var(--primary-color); font-family: var(--main-font);">Secondary
                     Classes</h2>
                 <div>
-                    <img src="./images/Mask group (2).png" alt="" class="w-100">
+                    <img src="./images/Mask group (15).png" alt="" class="w-100">
                 </div>
                 <div>
                     <p class="my-4 w-100 tracking-wide content-para edu-text" style="font-size: large;color: var(--primary-color); font-family: var(--secondary-font);">

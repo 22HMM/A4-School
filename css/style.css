@@ -82,7 +82,7 @@ nav {
 }
 
 .dropdown-menu {
-    top: 150% !important;
+    top: 127% !important;
     border: none;
     border-radius: 0px;
     border-top: 5px solid var(--primary-color);

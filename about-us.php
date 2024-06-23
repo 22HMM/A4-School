@@ -10,8 +10,8 @@
     </div>
     <div class="container">
         <div class="row inner-nav">
-            <ul class="d-flex gap-4 my-5 " style="font-family: var(--secondary-font);">
-                <li>Home <img src="./images/caret-right 1.png" alt="" class="mx-3"></li>
+            <ul class="d-flex align-items-center gap-2 my-5 " style="font-family: var(--secondary-font);">
+                <li>Home <img src="./images/caret-right 1.png" alt=""></li>
                 <li>About Us</li>
             </ul>
         </div>

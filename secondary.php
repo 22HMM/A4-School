@@ -10,10 +10,10 @@
     </div>
     <div class="container">
         <div class="row inner-nav">
-            <ul class="d-flex gap-4 my-5 inner-nav" style="font-family: var(--secondary-font); font-size: 18px;">
-                <li>Home <img src="./images/caret-right 1.png" alt="" class="mx-3"></li>
-                <li>Education <img src="./images/caret-right 1.png" alt="" class="mx-3"></li>
-                <li>Primary Class</li>
+            <ul class="d-flex align-items-center gap-2 my-5 inner-nav" style="font-family: var(--secondary-font); font-size: 18px;">
+                <li>Home <img src="./images/caret-right 1.png" alt="" class="mx-1"></li>
+                <li>Education <img src="./images/caret-right 1.png" alt="" class="mx-1"></li>
+                <li>Secondary Class</li>
             </ul>
         </div>
     </div>

@@ -938,7 +938,7 @@ footer .icons {
         height: 40px !important;
         line-height: 40px !important;
         left: 70px !important;
-        top: 11px !important;
+        top: 32px !important;
         padding: 12px 0 !important;
     }
 
@@ -955,8 +955,12 @@ footer .icons {
         width: 60% !important;
     }
 
-    .inner-nav ul li {
+    .inner-nav .cambridge {
         font-size: 15px !important;
+    }
+
+    .inner-nav .curriculum {
+        font-size: 8px !important;
     }
 
     .inner-nav img {
@@ -988,9 +992,14 @@ footer .icons {
     footer .menu ul {
         padding-left: 10px !important;
     }
+
+    .calendar {
+        width: 20px !important;
+        height: 20px !important;
+    }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 376px) {
 
     .heading {
         font-size: 22px !important;
@@ -1027,8 +1036,8 @@ footer .icons {
     .overlay {
         height: 35px !important;
         line-height: 35px !important;
-        left: 55px !important;
-        top: 37px !important;
+        left: 65px !important;
+        top: 35px !important;
         padding: 9px 0 !important;
     }
 
@@ -1045,8 +1054,12 @@ footer .icons {
         width: 60% !important;
     }
 
-    .inner-nav ul li {
-        font-size: 12px !important;
+    .inner-nav .curriculum {
+        font-size: 8px !important;
+    }
+
+    .inner-nav .cambridge {
+        font-size: 14px !important;
     }
 
     footer p {
@@ -1056,6 +1069,11 @@ footer .icons {
     footer .menu {
         padding-left: 3px !important;
         margin-top: 10px !important;
+    }
+
+    .calendar {
+        width: 20px !important;
+        height: 20px !important;
     }
 }
 
@@ -1200,6 +1218,11 @@ footer .icons {
         padding-left: 16px;
     }
 
+    .calendar {
+        width: 20px !important;
+        height: 20px !important;
+    }
+
     /* about-page */
 
     .aboutpage-content .banner h3 {
@@ -1243,7 +1266,7 @@ footer .icons {
 
 }
 
-@media (max-width: 320px) {
+@media (max-width: 321px) {
 
     header .school-logo {
         height: 69px !important;
@@ -1287,5 +1310,18 @@ footer .icons {
 
     footer .follow-us {
         padding-left: 30px !important;
+    }
+
+    .calendar {
+        width: 20px !important;
+        height: 20px !important;
+    }
+
+    .inner-nav .curriculum {
+        font-size: 6px !important;
+    }
+
+    .inner-nav .cambridge {
+        font-size: 10px !important;
     }
 }

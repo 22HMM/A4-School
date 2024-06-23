@@ -10,9 +10,10 @@
         </div>
         <div class="container">
             <div class="row inner-nav">
-                <ul class="d-flex align-items-center gap-2 my-5 " style="font-family: var(--secondary-font); font-size: 18px;">
+                <ul class="d-flex align-items-center curriculum gap-2 my-5 " style="font-family: var(--secondary-font); font-size: 18px;">
                     <li>Home <img src="./images/caret-right 1.png" alt=""></li>
-                    <li>News & Events</li>
+                    <li>News & Events <img src="./images/caret-right 1.png" alt=""></li>
+                    <li>Our curriculum how to build a complete</li>
                 </ul>
             </div>
         </div>
@@ -45,36 +46,6 @@
                             <div class="my-4 button">
                                 <a href="news&events.php" class="btn text-white rounded-5"
                                     style="font-size: 18px;font-family: var(--secondary-font);background-color: var(--secondary-color); padding: 15px 30px;">Read
-                                    More <img src="./images/arrow_up_right_to_square.png" alt="" class="mx-1"></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="content">
-                        <div style="width: 97%;">
-                            <img src="./images/football.jpg" alt="" class="w-100">
-                        </div>
-                        <div class="my-4 py-1">
-                            <ul class="d-flex p-0" style="font-family: var(--secondary-font);">
-                                <li class="m-0 p-0 date" style="font-family: var(--secondary-font);color: #808080;"><img
-                                        src="./images/calendar.png" alt="" class="me-2 calendar">June 5, 2024</li>
-                                <li class="mx-3 user" style="font-family: var(--secondary-font);color: #808080;"><img
-                                        src="./images/admin.png" alt="" class="me-2">By Admin</li>
-                            </ul>
-                            <div>
-                                <h2 class="fw-bold content-heading"
-                                    style="font-family: var(--main-font); color: var(--primary-text); font-size: 28px;">
-                                    Our Curriculum
-                                    how to build a complete</h2>
-                                <p class="py-2 content-para"
-                                    style="font-family: var(--secondary-font); color: var(--primary-text); font-size: 16px;">
-                                    Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie,
-                                    dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem
-                                    sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum
-                                    velit, sit amet feugiat lectus.</p>
-                            </div>
-                            <div class="my-4 button">
-                                <a href="news&events.php" class="btn text-white rounded-5"
-                                    style="font-size: 16px;font-family: var(--secondary-font);background-color: var(--secondary-color); padding: 15px 30px;">Read
                                     More <img src="./images/arrow_up_right_to_square.png" alt="" class="mx-1"></a>
                             </div>
                         </div>

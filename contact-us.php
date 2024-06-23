@@ -1,5 +1,5 @@
 <?php include_once('layouts/header.php'); ?>
-    <div class="contact-us">
+<div class="contact-us">
     <div class="row g-0">
             <div class="position-relative main-title">
                 <img src="./images/Mask group.png" alt="" width="100%" class="banner">
@@ -10,8 +10,8 @@
         </div>
         <div class="container">
             <div class="row inner-nav">
-                <ul class="d-flex gap-4 my-5" style="font-family: var(--secondary-font); font-size: 18px !important;">
-                    <li>Home <img src="./images/caret-right 1.png" alt="" class="mx-3"></li>
+                <ul class="d-flex align-items-center gap-2 my-5" style="font-family: var(--secondary-font); font-size: 18px !important;">
+                    <li>Home <img src="./images/caret-right 1.png" alt=""></li>
                     <li>Contact Us</li>
                 </ul>
             </div>

@@ -149,7 +149,7 @@
         <div class="row justify-content-between px-2">
             <h2 class="col-md-6 col-sm-6 heading">News and Events</h2>
             <div class="col-md-6 col-sm-6 news d-flex justify-content-end">
-                <a href="news-events.html" class="text-decoration-none">See All News & Events</a>
+                <a href="news-events.php" class="text-decoration-none">See All News & Events</a>
             </div>
         </div>
     </div>
